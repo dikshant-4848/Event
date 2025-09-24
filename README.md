@@ -13,12 +13,12 @@ Web application that allows users to create, manage, and RSVP to events. Admins
 ## Quick start (Windows):
 1. Extract ZIP
 2. Backend:
-   cd backend
-   npm install
-   cp .env.example .env
+   cd backend -> 
+   npm install -> 
+   cp .env.example .env -> 
   (edit .env if you want)
-   node seed.js
-   npx nodemon server.js
+   node seed.js -> 
+   npx nodemon server.js ->
    Server runs at http://localhost:5000
 
 3. Frontend:
