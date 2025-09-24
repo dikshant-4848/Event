@@ -22,9 +22,7 @@ Web application that allows users to create, manage, and RSVP to events. Admins
    Server runs at http://localhost:5000
 
 3. Frontend:
-   Open frontend/index.html in your browser OR run a static server:
-   npx http-server frontend -p 8080
-   Then open http://localhost:8080
+   Open frontend/index.html in your browser with localhost
 
 | Role  | Email                                         | Password |
 | ----- | --------------------------------------------- | -------- |
