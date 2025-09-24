@@ -1,7 +1,7 @@
 ## Event Planner - Minimal Fullstack Project -> 
 
 -----------------------------------------
-[Demo Video](https://drive.google.com/file/d/1kfk2HnvteW5sg-z2hZZf7Fg_rF9aOmxY/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1aD2HmA3e9RsmeXxWqSPeKaKfJdGTmBcN/view?usp=drive_link)
 
 Web application that allows users to create, manage, and RSVP to events. Admins
 can create and modify event details, while users can view available events and respond
