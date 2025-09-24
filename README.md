@@ -7,8 +7,8 @@ Web application that allows users to create, manage, and RSVP to events. Admins
 
 ------------------------------------------------------------------   
 ## Contents:
-- backend/: Node.js + Express API using Mongodb Atlas
-- frontend/: Static HTML/CSS/JS frontend to interact with backend.
+- Backend/: Node.js + Express API using Mongodb Atlas
+- Frontend/: Static HTML/CSS/JS frontend to interact with backend.
 
 ## Quick start (Windows):
 1. Extract ZIP
